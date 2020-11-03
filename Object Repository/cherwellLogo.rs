@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cherwellLogo</name>
+   <tag></tag>
+   <elementGuidId>e3bee184-5b76-40cf-b98f-8d1597a29975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@class=&quot;dashboardUberAlignedImage&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@class=&quot;dashboardUberAlignedImage&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
